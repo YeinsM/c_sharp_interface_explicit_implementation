@@ -17,7 +17,7 @@ To run a project, click F5 or use "Start debugging" from the toolbar or Debug me
 
 Your default browser will automatically open to http://localhost:5000 (the location of the web application). When you are done, close the browser window.
 
-When using Visual Studio Code, you will need to start the web service project separately from the web application.
+When using Visual Studio Code.
 
 Running the Application
 To run the console application (OddNumbers), use the following steps:
