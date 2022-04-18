@@ -6,10 +6,16 @@ namespace OddNumbers
     {
         static void Main(string[] args)
         {
-            Console.WriteLine ("Odd Numbers:");
+            Console.WriteLine("Odd Numbers:");
 
             var generator = new OddGenerator();
-            // add code here
+            foreach (int odd in generator)
+            {
+                if (odd > 60)
+                    break;
+                Console.WriteLine(odd);
+
+            }
 
             Console.Read();
         }
