@@ -12,56 +12,54 @@ Visual Studio Code
 
 When using Visual Studio, open the solution file (.sln) that is included in each sample folder. The solution is set up to automatically start the web application as well as the required web service, so no special action should be required.
 
-Running the Web Service and Application
+Running the Application
 To run a project, click F5 or use "Start debugging" from the toolbar or Debug menu.
 
 Your default browser will automatically open to http://localhost:5000 (the location of the web application). When you are done, close the browser window.
 
-Note: If you get the following error:
-
-~~~
-'No connection could be made because the target machine actively refused it. [::ffff:127.0.0.1]:9874 (localhost:9874)'
-     Then the web service is not running. Check the Troubleshooting Guide for help.
-~~~
-
 When using Visual Studio Code, you will need to start the web service project separately from the web application.
 
-Starting the Service
-For the projects that have a "People.Service" folder, use the following steps to start the service:
+Running the Application
+To run the console application (OddNumbers), use the following steps:
 
-1. Open a terminal in the "People.Service" folder.
-2. Type "dotnet run". (This will rebuild the project if necessary.)
-3. The service should start and show the following info:
-~~~
-info: Microsoft.Hosting.Lifetime[0]
-      Now listening on: http://localhost:9874
-info: Microsoft.Hosting.Lifetime[0]
-      Application started. Press Ctrl+C to shut down.
-info: Microsoft.Hosting.Lifetime[0]
-      Hosting environment: Development
-~~~
-
-If you open a browser to http://localhost:9874/people, you will see data from the service.
-
-You can leave this terminal open for all of the samples; each sample uses the same web service.
-
-To stop the service, press "Ctrl+C" in the terminal.
-
-Running the Web Application
-To run the web application (PeopleViewer), use the following steps:
-
-Open a terminal in the "PeopleViewer" folder.
+Open a terminal folder OddNumbers.
 Type "dotnet run". (This will rebuild the project if necessary.)
-The web application should start and show the following info:
+The application should start and show the following info:
 ~~~
-info: Microsoft.Hosting.Lifetime[0]
-      Now listening on: http://localhost:5000
-info: Microsoft.Hosting.Lifetime[0]
-      Application started. Press Ctrl+C to shut down.
-info: Microsoft.Hosting.Lifetime[0]
-      Hosting environment: Development
-info: Microsoft.Hosting.Lifetime[0]
+Odd Numbers:
+1
+3
+5
+7
+9
+11
+13
+15
+17
+19
+21
+23
+25
+27
+29
+31
+33
+35
+37
+39
+41
+43
+45
+47
+49
+51
+53
+55
+57
+59
 ~~~
+
+You can change the count numbers to print in program class.
 
 To run the application, open a browser to http://localhost:5000.
 
