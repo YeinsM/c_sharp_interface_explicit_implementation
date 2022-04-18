@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\C# Development Fundamentals\C#_Interfaces\05 Explicit Interface Implementation\ExplicitImplementation\OddNumbers\bin\Debug\net5.0\OddNumbers.exe
+C:\Users\Usuario\source\repos\C# Development Fundamentals\C#_Interfaces\05 Explicit Interface Implementation\ExplicitImplementation\OddNumbers\bin\Debug\net5.0\OddNumbers.deps.json
+C:\Users\Usuario\source\repos\C# Development Fundamentals\C#_Interfaces\05 Explicit Interface Implementation\ExplicitImplementation\OddNumbers\bin\Debug\net5.0\OddNumbers.runtimeconfig.json
+C:\Users\Usuario\source\repos\C# Development Fundamentals\C#_Interfaces\05 Explicit Interface Implementation\ExplicitImplementation\OddNumbers\bin\Debug\net5.0\OddNumbers.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\C# Development Fundamentals\C#_Interfaces\05 Explicit Interface Implementation\ExplicitImplementation\OddNumbers\bin\Debug\net5.0\OddNumbers.dll
+C:\Users\Usuario\source\repos\C# Development Fundamentals\C#_Interfaces\05 Explicit Interface Implementation\ExplicitImplementation\OddNumbers\bin\Debug\net5.0\OddNumbers.pdb
+C:\Users\Usuario\source\repos\C# Development Fundamentals\C#_Interfaces\05 Explicit Interface Implementation\ExplicitImplementation\OddNumbers\obj\Debug\net5.0\OddNumbers.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\C# Development Fundamentals\C#_Interfaces\05 Explicit Interface Implementation\ExplicitImplementation\OddNumbers\obj\Debug\net5.0\OddNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\C# Development Fundamentals\C#_Interfaces\05 Explicit Interface Implementation\ExplicitImplementation\OddNumbers\obj\Debug\net5.0\OddNumbers.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\C# Development Fundamentals\C#_Interfaces\05 Explicit Interface Implementation\ExplicitImplementation\OddNumbers\obj\Debug\net5.0\OddNumbers.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\C# Development Fundamentals\C#_Interfaces\05 Explicit Interface Implementation\ExplicitImplementation\OddNumbers\obj\Debug\net5.0\OddNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\C# Development Fundamentals\C#_Interfaces\05 Explicit Interface Implementation\ExplicitImplementation\OddNumbers\obj\Debug\net5.0\OddNumbers.dll
+C:\Users\Usuario\source\repos\C# Development Fundamentals\C#_Interfaces\05 Explicit Interface Implementation\ExplicitImplementation\OddNumbers\obj\Debug\net5.0\refint\OddNumbers.dll
+C:\Users\Usuario\source\repos\C# Development Fundamentals\C#_Interfaces\05 Explicit Interface Implementation\ExplicitImplementation\OddNumbers\obj\Debug\net5.0\OddNumbers.pdb
+C:\Users\Usuario\source\repos\C# Development Fundamentals\C#_Interfaces\05 Explicit Interface Implementation\ExplicitImplementation\OddNumbers\obj\Debug\net5.0\OddNumbers.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\C# Development Fundamentals\C#_Interfaces\05 Explicit Interface Implementation\ExplicitImplementation\OddNumbers\obj\Debug\net5.0\ref\OddNumbers.dll
