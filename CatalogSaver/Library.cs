@@ -7,8 +7,11 @@ namespace CatalogSaver
         void Save();
     }
 
-    public class Catalog 
+    public class Catalog : ISaveable
     {
-
+        void ISaveable.Save()
+        {
+            Console.WriteLine("Saved");
+        }
     }
 }
